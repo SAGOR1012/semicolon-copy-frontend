@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import UseUser from '../../Hooks/UseUser';
 import { AiOutlinePhone } from 'react-icons/ai';
 import { TfiEmail } from 'react-icons/tfi';
-import './Card.css'; // Import custom styles
+import './card.css'; // Import custom styles
 import LoadingSpinner from '../../Components/LoadingSpinner/LoadingSpinner';
 import { FcSimCardChip } from 'react-icons/fc';
 import UseAuth from '../../Hooks/UseAuth';
