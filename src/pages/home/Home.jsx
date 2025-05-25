@@ -1,8 +1,7 @@
 import { Helmet } from 'react-helmet-async';
 import GameTypeCard from '../../Components/GameTypeCard/GameTypeCard';
 import WarningPopup from '../../Components/PopupCard/WarningPopup';
-import Banner from './banner/Banner';
-
+import Banner from './Banner/Banner';
 const Home = () => {
   return (
     <div className='bg-primary-bg-image '>
