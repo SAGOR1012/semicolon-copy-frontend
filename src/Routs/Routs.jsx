@@ -1,6 +1,6 @@
 import { createBrowserRouter } from 'react-router-dom';
 import Main from '../Layout/Main';
-import Home from '../Pages/Home/Home';
+import Home from '../pages/home/Home';
 // import DailyMatchCard from "../Components/GameTypeCard/DailyMatchCard/DailyMatchCard";
 import Error404 from '../pages/Error/Error404';
 import Account from '../pages/Users/Account';
